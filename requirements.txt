@@ -1,4 +1,6 @@
 streamlit
-torch
 numpy
+opencv-python
 matplotlib
+scipy
+torch
